@@ -1,4 +1,7 @@
 FROM mariadb
+
+LABEL version="0.1.0"
+
 MAINTAINER Miquel Adell <miquel@miqueladell.com>
 
 RUN { \

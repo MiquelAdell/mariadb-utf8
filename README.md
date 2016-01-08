@@ -1,2 +1,2 @@
-# mariadb-utf8
-MariaDB UTF-8 Docker image 
+# mariadb-utf8mb4
+MariaDB UTF8mb4 Docker image 
